@@ -1,4 +1,21 @@
 # I've joined the #100DaysOfCode Challenge.
+### Project Overview ###
+Toodee Theater (2D) is a prototype of movie production tool dedicated to 'theater plays' like movie clips where actors are actual piece of whatever you want (pieces of paper, objects), animated by hands in front of the camera. This prototype tests the automatic erasing of hands while animating the 'actors'.
+
+Main prototype features are:
+* Set a stage (Lights set, no actors, no hands, camera facing desired background = stage)
+* Enroll an actor (a single actual item, filmed on the 'stage' at a defined distance)
+* Record/Play/Save a take (video and sound)
+
+Main challenges:
+* Erase hands
+* Reconstruct moving actors based on the enrolled ones
+
+Technical notes:
+* Android platform
+* Min API 4.1 (JellyBean)
+* For testing purpose only (Galaxy Notes2 only, no compatibility/API management)
+
 
 ## Contents
 * [Rules](rules.md)
