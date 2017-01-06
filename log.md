@@ -16,7 +16,23 @@ I spent something like 1h30  on the project today.
 Video stream and object tracking are beaten paths, quite well documented.
 The reconstruction of objects' parts masked by fingers will be the true challenge of course.
 
+Day 1: January 6, 2017
+**Today's Progress**: 
+Still had issues with OpenCV for android & Android studio configuration.
+Played around (C++) with OpenCV for OSX / Xcode to get hands dirty with object tracking.
+I spent something like 2h30  on the project today.
+
+**Thoughts**:
+OpenCV seems a great API. SO easy to get started.
+Had an idea to avoid the reconstruction part.  The whole process would be:
+1) Set stage (Save fixed bacground)
+2) Enroll Actors = For each actor, put it anywhere on the stage -> Extract Object  -> Define histogram / shape for each of them
+3) Take = Start recording the scene
+4) Magic = Track position and orientation of actors -> For each frame: draw background then rotate and draw actors
+5) If tracking fast enough, magic can occur in real time. 
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
 3. [Helloworld for computer vision](http://www.hasper.info/hello-world-for-android-computer-vision/)
+4. [OpenCV tracking demo project](https://www.youtube.com/watch?annotation_id=annotation_307976421&feature=iv&src_vid=RS_uQGOQIdg&v=bSeFrPrqZ2A)
