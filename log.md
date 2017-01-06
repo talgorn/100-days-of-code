@@ -5,23 +5,24 @@
 Day 0: January 4, 2017
 **Today's Progress**: Created and updated Git repo,  added a project Overview to the README.MD, tried for an hour to make Camera functions properly. I either had a blank screen when working with Android docs, or a halt at launch time with an example project. So far , so almost_good :)
 **Thoughts:** Not the first time Android Dev docs provide biased infos.
+
+
 Day 1: January 5, 2017
 **Today's Progress**: 
 Struggled again with Camera camera for an hour. Eventually found a straightforward working example for computer vision (Link 3).
 Will definitely work with OpenCV for android for object tracking. Maybe for Camera management. Will depend on OpenGL integration (TBD).
 Installed and configured OpenCV for android in Android Studio. Almost done.
 I spent something like 1h30  on the project today.
-
 **Thoughts**:
 Video stream and object tracking are beaten paths, quite well documented.
 The reconstruction of objects' parts masked by fingers will be the true challenge of course.
 
-Day 1: January 6, 2017
+
+Day 2: January 6, 2017
 **Today's Progress**: 
 Still had issues with OpenCV for android & Android studio configuration.
 Played around (C++) with OpenCV for OSX / Xcode to get hands dirty with object tracking.
 I spent something like 2h30  on the project today.
-
 **Thoughts**:
 OpenCV seems a great API. SO easy to get started.
 Had an idea to avoid the reconstruction part.  The whole process would be:
