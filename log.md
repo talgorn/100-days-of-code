@@ -32,6 +32,17 @@ Had an idea to avoid the reconstruction part.  The whole process would be:
 4) Magic = Track position and orientation of actors -> For each frame: draw background then rotate and draw actors
 5) If tracking fast enough, magic can occur in real time. 
 
+Day 3: January 7, 2017
+**Today's Progress**: 
+Experiments (and had fun) with object extraction with openCV.
+I spent something like 3h30  on the project today.
+**Thoughts**:
+OpenCV seems a great API. SO easy to get started.
+Had an idea to avoid the reconstruction part.  The whole process would be:
+Basic feature extractions methods (greyscale subs and absDiff based) are not good enough for the project.
+Will refine the approach (per channel diff) and give a try to others techniques (like templates).
+As usual, will have to find the good compromise between performance and speed .
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
