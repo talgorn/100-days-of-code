@@ -41,7 +41,7 @@ Basic feature extractions methods (greyscale subs and absDiff based) are not goo
 Will refine the approach (per channel diff) and give a try to others techniques (like templates).
 As usual, will have to find the good compromise between performance and speed .
 
-Day 3: January 8, 2017
+Day 4: January 8, 2017
 **Today's Progress**: 
 Got a first rough object extraction by calculating delta of pixel intensity between two greyscaled images
 (fixed background and live feed) . I used a treshold to select background/added object on the scene.
