@@ -41,6 +41,15 @@ Basic feature extractions methods (greyscale subs and absDiff based) are not goo
 Will refine the approach (per channel diff) and give a try to others techniques (like templates).
 As usual, will have to find the good compromise between performance and speed .
 
+Day 3: January 8, 2017
+**Today's Progress**: 
+Got a first rough object extraction by calculating delta of pixel intensity between two greyscaled images
+(fixed background and live feed) . I used a treshold to select background/added object on the scene.
+I spent something like 3h00  on the project today.
+**Thoughts**:
+I will need to spend some time on literature to select a feature extraction that match the needs of this project.
+Many candidates. Will have to trade between speed/performance.
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
