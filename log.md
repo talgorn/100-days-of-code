@@ -50,6 +50,19 @@ I spent something like 3h00  on the project today.
 I will need to spend some time on literature to select a feature extraction that match the needs of this project.
 Many candidates. Will have to trade between speed/performance.
 
+Day 5: January 9, 2017
+**Today's Progress**: 
+No code today but researched best solutions for the project.
+The winners are:
+BackgroundSubtractorMOG2 for background extraction (actor extraction);
+BRIEF keypoints descriptors;
+STAR feature detection (OpenCV's Censure implementation).
+I spent something like 1H30 on the project today.
+**Thoughts**:
+I will need to spend some time now to test / experiment with the implementation on OSX.
+These techniques can be used on mobile platformthe but I don't know what it would give on good enough smartphones/tablet.
+
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
