@@ -60,7 +60,7 @@ STAR feature detection (OpenCV's Censure implementation).
 I spent something like 1H30 on the project today.
 **Thoughts**:
 I will need to spend some time now to test / experiment with the implementation on OSX.
-These techniques can be used on mobile platformthe but I don't know what it would give on good enough smartphones/tablet.
+These techniques can be used on mobile platforms but I don't know what it would give on good enough smartphones/tablet.
 
 
 **Link(s) to work**:
