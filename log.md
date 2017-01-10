@@ -62,9 +62,18 @@ I spent something like 1H30 on the project today.
 I will need to spend some time now to test / experiment with the implementation on OSX.
 These techniques can be used on mobile platforms but I wonder about the frame rate on good enough smartphones/tablet.
 
+Day 6: January 10, 2017
+**Today's Progress**: 
+Experiments with openCV background substractor class (MOG2) to extract an actor (new element in scene) from a fixed background.
+I'm not satisfied with the result. I couldn't manage to get a precise enough resulting mask.
+Started to test a simple custom pixel color comparison with 3 differents tresholds for the the 3 channels values.
+Spent something like two hours on the project.
+**Thoughts**:
+
 
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
 3. [Helloworld for computer vision](http://www.hasper.info/hello-world-for-android-computer-vision/)
 4. [OpenCV tracking demo project](https://www.youtube.com/watch?annotation_id=annotation_307976421&feature=iv&src_vid=RS_uQGOQIdg&v=bSeFrPrqZ2A)
+5. [openCV background substraction simple tutorial](http://docs.opencv.org/3.1.0/d1/dc5/tutorial_background_subtraction.html)
