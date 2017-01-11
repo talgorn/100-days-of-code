@@ -70,6 +70,14 @@ Started to test a simple custom pixel color comparison with 3 differents treshol
 Spent something like two hours on the project.
 **Thoughts**:
 
+Day 7: January 11, 2017
+**Today's Progress**: 
+First results of automatic extraction based on color segmentation (custom delta calculation on HSV channels).
+**Thoughts**:
+My best results are not good enough. Drop the full automatic extraction and go for Grabcut algorithm.
+Will improve the interface user exp (ex: automatically launch next iteration on release of click).
+I don't know how it will perfom on mobile platform but I stick with this now.
+Spent something like 5 hours on the project today.
 
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
