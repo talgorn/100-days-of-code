@@ -79,6 +79,16 @@ Will improve the interface user exp (ex: automatically launch next iteration on 
 I don't know how it will perfom on mobile platform but I stick with this now.
 Spent something like 5 hours on the project today.
 
+Day 8, 9, 10: January 12, 13,14, 2017
+**Today's Progress**: 
+Couldn't make it on the 12th :)
+For the past 2 days, struggling with the configuration of OpenCV / Xcode with QT support (new functions).
+**Thoughts**:
+Everything is fine except the Qt new function (ex: create button). Might be because of the CMake file. I'll try tomorrow to recompile again via command line instead of CMake GUI to be sure of the compiling options.
+I spent something like 3 hours on the past 3 days.
+
+
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
