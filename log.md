@@ -87,7 +87,20 @@ For the past 2 days, struggling with the configuration of OpenCV / Xcode with QT
 Everything is fine except the Qt new function (ex: create button). Might be because of the CMake file. I'll try tomorrow to recompile again via command line instead of CMake GUI to be sure of the compiling options.
 I spent something like 3 hours on the past 3 days.
 
+Day 11: January 15, 2017
+**Today's Progress**: 
+Xcode / OpenCV / QT5 configuration OK. I can have now the new QT features in a GUI_EXPANDED window with video capture. Yes!
+Just started the OSX prototype GUI.
+Version control (Git in XCode) is set too.
 
+**Thoughts**:
+Ready to code the Actor module:
+. take a snapshot of the videoFeed
+. extract the actor with GrabCut algo and store it in an openCV matrix
+. use it as input for the BRIEF descriptor class (generate features for detection).
+For now, in order to set the whole graphic pipe, I'll work with OpenCV only (with poor perfs then).
+I'll go on the OpenGL part for the Android port.
+May be I should document the OpenCV/QT5 config for XCode.
 
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
