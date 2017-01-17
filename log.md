@@ -102,6 +102,14 @@ For now, in order to set the whole graphic pipe, I'll work with OpenCV only (wit
 I'll go on the OpenGL part for the Android port.
 May be I should document the OpenCV/QT5 config for XCode.
 
+Day 12, 13: January 16&17 2017
+**Today's Progress**: 
+Base actor class OK. Will expand with the coming needs.
+**Thoughts**:
+Need to refresh C/C++ knowledge! :)
+So cool to go back to C/C++ dev.
+Worked only 2 hours the past 2 days.
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
