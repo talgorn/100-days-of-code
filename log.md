@@ -110,6 +110,19 @@ Need to refresh C/C++ knowledge! :)
 So cool to go back to C/C++ dev.
 Worked only 2 hours the past 2 days.
 
+Day 14: January 18 2017
+**Today's Progress**: 
+Made a simple state machine for the different steps of the app (create stage, create actor, create scene).
+Added a 'name' field  to the actor class (for the future actor list to be viewed).
+Just initated the GraCut class based on the openCV GrabCut exemple.
+
+**Thoughts**:
+So far, so good. A bit eager with the precision of the future feature detection part.
+If the detection of the actor rotation is not precise enough I will surely end with a jagged effect!
+Que sera sera!
+Spent something like four hours on it today.
+
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
