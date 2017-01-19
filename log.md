@@ -115,12 +115,18 @@ Day 14: January 18 2017
 Made a simple state machine for the different steps of the app (create stage, create actor, create scene).
 Added a 'name' field  to the actor class (for the future actor list to be viewed).
 Just initated the GraCut class based on the openCV GrabCut exemple.
-
 **Thoughts**:
 So far, so good. A bit eager with the precision of the future feature detection part.
 If the detection of the actor rotation is not precise enough I will surely end with a jagged effect!
 Que sera sera!
 Spent something like four hours on it today.
+
+Day 15: January 19 2017
+**Today's Progress**: 
+Worked mainly on GrabCut algo.  Pb with the implementation.
+**Thoughts**:
+Grabbed the principles of grabcut algo. The use of openCV GrabCut class should be straightforward but didn't manage to make it work. I have have a working example but decided to code my own class instead of integrating it.
+I spent around 6 hours on the project on it today. Frustrating day.
 
 
 **Link(s) to work**:
