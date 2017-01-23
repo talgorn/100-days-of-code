@@ -128,6 +128,12 @@ Worked mainly on GrabCut algo.  Pb with the implementation.
 Grabbed the principles of grabcut algo. The use of openCV GrabCut class should be straightforward but didn't manage to make it work. I have have a working example but decided to code my own class instead of integrating it.
 I spent around 6 hours on the project on it today. Frustrating day.
 
+Day 19: January 20, 21, 22, 23 2017
+**Today's Progress**: 
+Based on 2 different examples, made my implementation of first iteration of grabCut OK.  
+**Thoughts**:
+Next step: user defined and interactive foreground background mask. 
+Spent something around 4 hours the 4 past days.
 
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
