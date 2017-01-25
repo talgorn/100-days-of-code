@@ -135,9 +135,16 @@ Based on 2 different examples, made my implementation of first iteration of grab
 Next step: user defined and interactive foreground background mask. 
 Spent something around 4 hours the 4 past days.
 
+Day 21: January 24, 25 2017
+**Today's Progress**: 
+Not so productive! Worked less  than 2 hours the past two days.
+**Thoughts**:
+Implementing my own grabcut class takes more time than I thought. It seems that the quality of extraction  differs depending on the way we use the grabCut class. More precisely, the way you define your masks (fgd/bkd).
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
 3. [Helloworld for computer vision](http://www.hasper.info/hello-world-for-android-computer-vision/)
 4. [OpenCV tracking demo project](https://www.youtube.com/watch?annotation_id=annotation_307976421&feature=iv&src_vid=RS_uQGOQIdg&v=bSeFrPrqZ2A)
 5. [openCV background substraction simple tutorial](http://docs.opencv.org/3.1.0/d1/dc5/tutorial_background_subtraction.html)
+6.[YA grabcut example with input image for strokes](http://www.cg.info.hiroshima-cu.ac.jp/~miyazaki/knowledge/teche89.html)
