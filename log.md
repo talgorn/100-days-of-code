@@ -141,6 +141,14 @@ Not so productive! Worked less  than 2 hours the past two days.
 **Thoughts**:
 Implementing my own grabcut class takes more time than I thought. It seems that the quality of extraction  differs depending on the way we use the grabCut class. More precisely, the way you define your masks (fgd/bkd).
 
+Day 22: January 26 2017
+**Today's Progress**: 
+Beginning of actor selection within camera frame.
+**Thoughts**:
+Have a poor design and C++ code. Need to refactor.  
+Spent 2H45 today.
+
+
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
 2. [Official android docs](https://developer.android.com/guide/topics/media/camera.html)
