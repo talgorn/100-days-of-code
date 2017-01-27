@@ -148,6 +148,12 @@ Beginning of actor selection within camera frame.
 Have a poor design and C++ code. Need to refactor.  
 Spent 2H45 today.
 
+Day 23: January 26 2017
+**Today's Progress**: 
+Actor selection OK.
+**Thoughts**:
+Spent a lot of time on a logic bug and refactor the non blocking CreateActor method.
+Spent, well... nearly the whole day on it !
 
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
