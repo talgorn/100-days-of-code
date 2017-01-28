@@ -148,12 +148,23 @@ Beginning of actor selection within camera frame.
 Have a poor design and C++ code. Need to refactor.  
 Spent 2H45 today.
 
-Day 23: January 26 2017
+Day 23: January 27 2017
 **Today's Progress**: 
 Actor selection OK.
 **Thoughts**:
 Spent a lot of time on a logic bug and refactor the non blocking CreateActor method.
 Spent, well... nearly the whole day on it !
+
+Day 24: January 28 2017
+**Today's Progress**: 
+Still on grabcut.
+Cleaned up and got into the algo to simplify the user interactions (just sure Bgd and sure fgd to set).
+
+**Thoughts**:
+Foreground / Background interactive mask to do. Try to do it in a simpler manner than in the openCV tutorial.
+I will follow the path of Link#6 below.
+
+
 
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
