@@ -164,6 +164,12 @@ Cleaned up and got into the algo to simplify the user interactions (just sure Bg
 Foreground / Background interactive mask to do. Try to do it in a simpler manner than in the openCV tutorial.
 I will follow the path of Link#6 below.
 
+Day 25&26: January 29, 30 2017
+**Today's Progress**: 
+Refactor the entire event loop and Grabcut init with mask almost OK.
+
+**Thoughts**:
+Spent 5 hours today + half an hour yesterday.
 
 
 **Link(s) to work**:
