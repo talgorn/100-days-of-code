@@ -171,6 +171,12 @@ Refactor the entire event loop and Grabcut init with mask almost OK.
 **Thoughts**:
 Spent 5 hours today + half an hour yesterday.
 
+Day 27, 28, 29, 30, 31, 1, 2, 3, 4 : February 4 2017
+**Today's Progress**: 
+Grabcut init with rectangle OK. Done some little cleanup and comments.
+
+**Thoughts**:
+Didn't work a lot on it lately. Spent hardly 3 hours the past days.
 
 **Link(s) to work**:
 1. [Alternate android projects](https://github.com/commonsguy/cw-advandroid/tree/master/Camera). 
